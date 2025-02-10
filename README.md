@@ -2,7 +2,7 @@
 
 A1: RESEARCH QUESTION:
 
-What are the most influential words that indicate a positive or negative sentiment in product reviews?
+"What are the most influential words that indicate a positive or negative sentiment in product reviews?"
 
 A2: OBJECTIVES OR GOALS:
 
